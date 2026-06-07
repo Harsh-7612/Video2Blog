@@ -1,4 +1,4 @@
-# Vid2Blog (Formerly Youtube-video-to-blog-page-creator)
+# Vid2Blog 
 
 ![Python Version](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 ![OpenAI](https://img.shields.io/badge/AI-OpenAI%20%7C%20Whisper-orange)
