@@ -28,3 +28,18 @@ Whether you are a content creator looking to repurpose your videos or a develope
    ```bash
    git clone [https://github.com/Harsh-7612/Vid2Blog.git](https://github.com/Harsh-7612/Vid2Blog.git)
    cd Vid2Blog
+   ```
+2. **Set up a virtual environment**
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows use `venv\Scripts\activate`
+```
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+4. **Configure Environment Variables:**
+Copy .env.example to .env and add your necessary API keys
+```bash
+cp .env.example .env
+```
